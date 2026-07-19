@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+JavaScript+ile+ilgileniyorum;SQL+ve+Backend+%C3%B6%C4%9Freniyorum;Sürekli+kod+yazıyorum+%F0%9F%9A%80" alt="Typing SVG" />
+
   </a>
 </p>
 
