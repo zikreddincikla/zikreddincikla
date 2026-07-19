@@ -34,22 +34,20 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-
+ 
 <p align="center">
   <img height="165" src="https://github-readme-stats-pi-jade-prku09bw1y.vercel.app/api?username=zikreddincikla&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats-pi-jade-prku09bw1y.vercel.app/api/top-langs/?username=zikreddincikla&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zikreddincikla&theme=radical&hide_border=true" />
 </p>
-
 ---
-
+ 
 ### 🏆 Trophies
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats-pi-jade-prku09bw1y.vercel.app/?username=zikreddincikla&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zikreddincikla&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
