@@ -1,15 +1,5 @@
 <h1 align="center">Merhaba, ben Zikreddin 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zikreddincikla&label=Profil%20Ziyaretçisi&color=f72585&style=flat" alt="visitor badge"/>
-</p>
-
 ---
 
 ### 🚀 Hakkımda
@@ -25,7 +15,7 @@
 ### 🛠️ Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,visualstudio&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
