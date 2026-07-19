@@ -25,7 +25,10 @@
 ### 🛠️ Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,shields.io,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
 ---
