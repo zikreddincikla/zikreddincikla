@@ -25,7 +25,7 @@
 ### 🛠️ Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mssql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,shields.io,git,github,vscode&theme=dark" />
 </p>
 
 ---
