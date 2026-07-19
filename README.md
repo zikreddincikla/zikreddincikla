@@ -65,7 +65,7 @@
 ### 🌐 Sosyal Medya
 
 <p align="center">
-  <a href="https://linkedin.com/in//zikreddin-%C3%A7%C4%B1klasa%C4%9F%C4%B1rc%C4%B1o%C4%9Flu" target="_blank">
+  <a href="https://www.linkedin.com/in/zikreddin-çıklasağırcıoğlu-64667a395" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="zikreddinckl@gmail.com" target="_blank">
