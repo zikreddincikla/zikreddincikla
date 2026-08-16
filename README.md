@@ -4,9 +4,9 @@
 
 ### 🚀 Hakkımda
 
-- 🔭 Şu anda **React** ve **JavaScript** projeleri üzerinde çalışıyorum
+- 🔭 Şu anda **Asp.Net Core MVC** projeleri üzerinde çalışıyorum
 - 🌱 Frontend ve backend konularında kendimi geliştiriyorum
-- 💬 HTML, CSS, JavaScript, React ve SQL hakkında konuşabilirim
+- 💬 HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
 - 📫 Bana ulaşmak için: **zikreddinckl@gmail.com**
 - 📍 Türkiye 🇹🇷
 
