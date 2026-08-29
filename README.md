@@ -2,17 +2,16 @@
 
 ---
 
-### 🚀 Hakkımda
+### Hakkımda
 
-- 🔭 Şu anda **Asp.Net Core MVC** projeleri üzerinde çalışıyorum
-- 🌱 Frontend ve backend konularında kendimi geliştiriyorum
-- 💬 HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
-- 📫 Bana ulaşmak için: **zikreddinckl@gmail.com**
-- 📍 Türkiye 🇹🇷
+- Şu anda **Flutter** projeleri üzerinde çalışıyorum
+- HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
+- Bana ulaşmak için: **zikreddinckl@gmail.com**
+- Türkiye 🇹🇷
 
 ---
 
-### 🛠️ Teknolojiler
+### Teknolojiler
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,visualstudio,cs&theme=dark" />
@@ -23,7 +22,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### GitHub İstatistiklerim
  
 <p align="center">
   <img height="165" src="https://github-readme-stats-pi-jade-prku09bw1y.vercel.app/api?username=zikreddincikla&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -43,7 +42,7 @@
 
 ---
 
-### 🐍 Katkı Yılanı
+### Katkı Yılanı
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zikreddincikla/zikreddincikla/output/github-contribution-grid-snake-dark.svg" />
@@ -51,7 +50,7 @@
 
 ---
 
-### 🌐 Sosyal Medya
+### Sosyal Medya
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zikreddin-çıklasağırcıoğlu-64667a395" target="_blank">
