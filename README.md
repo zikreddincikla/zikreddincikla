@@ -4,7 +4,7 @@
 
 ### Hakkımda
 
-- Şu anda **Flutter** projeleri üzerinde çalışıyorum
+- Şu anda **Web** projeleri üzerinde çalışıyorum
 - HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
 - Bana ulaşmak için: **zikreddinckl@gmail.com**
 - Türkiye 🇹🇷
