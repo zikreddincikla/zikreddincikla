@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Zikreddin 👋</h1>
+<h1 align="center">Merhaba, ben Zikreddin </h1>
 
 ---
 
