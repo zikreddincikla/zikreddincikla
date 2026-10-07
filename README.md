@@ -4,7 +4,7 @@
 
 ### Hakkımda
 
-- Şu anda **Fluttel** projeleri üzerinde çalışıyorum
+- Şu anda **VS Code ASP.NET CORE MVC** projeleri üzerinde çalışıyorum
 - HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
 - Bana ulaşmak için: **zikreddinckl@gmail.com**
 - Türkiye 🇹🇷
