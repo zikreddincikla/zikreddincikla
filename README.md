@@ -4,7 +4,7 @@
 
 ### Hakkımda
 
-- Şu anda bir üzerinde çalışımıyorum
+- Şu anda **Python** üzerinde çalışıyorum
 - HTML, CSS, JavaScript ve SQL hakkında konuşabilirim
 - Bana ulaşmak için: **zikreddinckl@gmail.com**
 - Türkiye 🇹🇷
